@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @David-R-Lange
 - 👀 I’m interested in Mathematics, Numerical Optimization, Statistics and Mathematical Stochastics, and your average CS-Buzz Words, like: AI, Big Data, etc.
 - 🌱 I’m currently learning Numerical Mathematics at my Uni
-- 📫 How to reach me here and via my email: renedavidbrueggemann@gmail.com
+- 📫 How to reach me: via my email: renedavidbrueggemann@gmail.com
