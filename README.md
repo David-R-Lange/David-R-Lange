@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @David-R-Lange
-- 👀 I’m interested in Mathematics, Numerical Optimization and your average CS-Buzz Words, like: AI, Big Data, etc.
-- 🌱 I’m currently learning Numerical Mathematics at my Uni
-- 📫 How to reach me: via my email: renedavidbrueggemann@gmail.com
+- Hi, I’m @David-R-Lange
+- I’m interested in Mathematics, Numerical Optimization, Numerics of ODEs/PDEs
+- I’m currently learning Numerical Mathematics, Octave/Matlab and C++
+- You can reach me via my email: renedavidbrueggemann@gmail.com
