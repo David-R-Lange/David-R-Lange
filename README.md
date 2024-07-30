@@ -7,4 +7,6 @@ Many things in Computer Science interest me, but nothing more than Game Developm
 everything associated with that. I would especcially like to learn Game Engine Programming,
 Emulation and Graphics Programming.
 
+REMINDER: Due to me learning Programming and showing what I have learned, I will never use any kind of AI (Github Copilot or ChatGPT) to help me, when I'm stuck or otherwise.
+
 You can reach me via my email: renedavidbrueggemann@gmail.com
